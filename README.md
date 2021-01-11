@@ -1,15 +1,11 @@
 <p align="center">
-<img src="https://avatars0.githubusercontent.com/u/26920098?s=200&v=4" width="100" height="100" />
+<img src="http://syntesy.io/modules/front/images/logo.jpg" width="218" height="83" />
 </p>
 
 # Frontend Assigment: Github username searcher
 
-## Goal
 
-The goal of this assignment is to have the candidate to work with some of the tools that we use every-day on Chama. It is designed to check your coding and problem-solving skills.
-
-
-## Assigment Description
+## Description
 
 For this assigment, you should consume the public [Github REST API](https://docs.github.com/en/free-pro-team@latest/rest/overview/endpoints-available-for-github-apps#users) in order to present the github data of a given user.
 
@@ -34,17 +30,15 @@ In your assigment, you are required to use:
 During the assessment, we will look into the following points:
 
 * Whether you use Redux, React, HTML and CSS properly
-* Writing testable code
 * Code organization (modularity, dependencies between modules, naming, etc)
 * SOLID principles
 * Error handling
-* Mobile friendly
 * Assignment completion
 
 ## Hints
 
 * You don't need to spend time creating a dev/build environment. You can use [create-react-app](https://github.com/facebookincubator/create-react-app) (and other alike tools) for that
-* Third-party libraries are allowed, although you will have extra points if you provide a vanilla solution since our main focus is to assess your skills with HTML, Javascript and CSS
+* Third-party libraries are allowed
 * As a company, we believe that communication is the key to success. So if something is not clear to you, or if you have doubts on what you can use, reach the devs
 
 
